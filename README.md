@@ -7,7 +7,7 @@ A simple CSS preset to enable box-sizing, set some text rendering options to dec
 ## Usage
 
 ```html
-<link href=preset.css rel=stylesheet>
+<link href=https://tomhodgins.github.io/preset/preset.css rel=stylesheet>
 ```
 
 ## Info
