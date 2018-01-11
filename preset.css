@@ -26,7 +26,7 @@ A simple CSS preset to enable box-sizing, set some text rendering options to dec
 }
 
 html {
-  font-family: sans-serif;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 
